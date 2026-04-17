@@ -1,16 +1,20 @@
 ## Hi there 👋
+I am Archita J Laxman a Data Analyst with a strong interest in transforming raw data into meaningful insights. 
+I enjoy solving real-world problems using data and continuously improving my analytical skills through projects.
 
-<!--
-**Architalaxman/Architalaxman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 I Work On
+- Data Analysis & Data Cleaning  
+- Exploratory Data Analysis (EDA)  
+- Dashboard Development & Data Visualization  
+- Business Insights & KPI Tracking  
+- Machine Learning (Basic Projects)  
 
-Here are some ideas to get you started:
+## 🛠️ Tools & Technologies
+- Microsoft Excel  
+- Power BI  
+- SQL  
+- Python (NumPy, Pandas)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to Reach Me
+- Email: architajenniferlaxman@gmail.com   
+- LinkedIn: www.linkedin.com/in/archita-jennifer-laxman
